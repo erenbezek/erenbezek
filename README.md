@@ -1,6 +1,6 @@
 # Hi, I'm Eren 👋
 
-Computer Engineering student who obsesses over truly understanding things before moving on. I've explored different areas to find what genuinely excites me — and I found it in systems and infrastructure. Currently learning DevOps, networking, and cloud technologies.
+
 
 ---
 
